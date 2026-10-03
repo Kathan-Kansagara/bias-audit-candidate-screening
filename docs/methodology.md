@@ -4,10 +4,12 @@
 **Hackathon Project Documentation**
 
 **Team Members:**
-[Member 1 Name]
-[Member 2 Name]
-[Member 3 Name]
-[Member 4 Name]
+Kathan Kanasagara_64,
+Hircel Zacarias_11, 
+Bhavarth Pandya_D21,
+Albeija Laissane_03, 
+Raga Sudha_D47
+
 
 **Institution:**
 Marwadi University
@@ -19,4 +21,4 @@ Information and Communication Technology
 Google Colab, Python, Google Gemini API
 
 **Date:**
-October 2026
+October  2026

@@ -18,7 +18,7 @@ Marwadi University
 Information and Communication Technology
 
 **Technology Used:**
-Google Colab, Python, Google Gemini API
+VS Code, Python, Google Gemini API, 
 
 **Date:**
 October  2026
